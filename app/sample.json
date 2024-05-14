@@ -1,0 +1,102 @@
+[
+  {
+    "patient_id": "P001",
+    "age": 45,
+    "gender": "female",
+    "observations": {
+      "blood_glucose_level": 180,
+      "blood_pressure": "140/90",
+      "weight": 70,
+      "bmi": 28.5
+    },
+    "symptoms": [
+      "frequent_urination",
+      "increased_thirst",
+      "fatigue",
+      "blurred_vision"
+    ]
+  },
+  {
+    "patient_id": "P002",
+    "age": 60,
+    "gender": "male",
+    "observations": {
+      "blood_glucose_level": 220,
+      "blood_pressure": "150/95",
+      "weight": 85,
+      "bmi": 30.0
+    },
+    "symptoms": [
+      "frequent_urination",
+      "increased_hunger",
+      "slow_healing_sores"
+    ]
+  },
+  {
+    "patient_id": "P003",
+    "age": 35,
+    "gender": "female",
+    "observations": {
+      "blood_glucose_level": 160,
+      "blood_pressure": "130/85",
+      "weight": 65,
+      "bmi": 25.4
+    },
+    "symptoms": [
+      "fatigue",
+      "weight_loss",
+      "numbness_in_hands_feet"
+    ]
+  },
+  {
+    "patient_id": "P004",
+    "age": 50,
+    "gender": "male",
+    "observations": {
+      "blood_glucose_level": 200,
+      "blood_pressure": "145/90",
+      "weight": 90,
+      "bmi": 32.0
+    },
+    "symptoms": [
+      "increased_thirst",
+      "frequent_urination",
+      "blurred_vision",
+      "skin_infections"
+    ]
+  },
+  {
+    "patient_id": "P004",
+    "age": 50,
+    "gender": "male",
+    "observations": {
+      "blood_glucose_level": 240,
+      "blood_pressure": "145/90",
+      "weight": 90,
+      "bmi": 32.0
+    },
+    "symptoms": [
+      "increased_thirst",
+      "frequent_urination",
+      "blurred_vision",
+      "skin_infections"
+    ]
+  },
+  {
+    "patient_id": "P005",
+    "age": 55,
+    "gender": "female",
+    "observations": {
+      "blood_glucose_level": 190,
+      "blood_pressure": "135/85",
+      "weight": 75,
+      "bmi": 29.0
+    },
+    "symptoms": [
+      "increased_hunger",
+      "fatigue",
+      "slow_healing_sores",
+      "numbness_in_hands_feet"
+    ]
+  }
+]
